@@ -13,12 +13,15 @@ You can also check out some of my other projects on [Kaggle](https://www.kaggle.
 ## Tools & Tech
 
 **Language**
+
 `Python`
 
 **Data & ML & Deep Learning**
+
 `NumPy` `Pandas` `scikit-learn` `Seaborn` `Matplotlib` `Plotly` `XGBoost` `LightGBM` `CatBoost` `Random Forest` `Keras` `TensorFlow` 
 
 **Data Engineering**
+
 `Apache Spark` `Apache Kafka`
 
 ---
