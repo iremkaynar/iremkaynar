@@ -29,10 +29,10 @@ You can also check out some of my other projects on [Kaggle](https://www.kaggle.
 ## A Bit About Me
 
 - 📝 Loves sharing knowledge with people
-- 💜 Teaching Asisstant at Miuul AI & Data Scientist Bootcamp
+- 💜 Teaching Asisstant at **Miuul AI & Data Scientist Bootcamp**
 - 🐾 Animal lover
 - 🎸 Guitar player
-- 🪡 Founding Member of **Dantel** poetry community
+- 🪡 Founding Member of **Dantel Poetry Community**
 
 ---
 
