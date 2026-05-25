@@ -1,6 +1,6 @@
 ## Hi there, I'm İrem👋
 
-A data scientist based in Türkiye - Mostly working on data science and AI projects. 
+A data scientist based in Türkiye - Mostly working on machine learning, deep learning and GenAI projects. 
 I love spending time with data.
 
 I enjoy sharing what i learn. 
